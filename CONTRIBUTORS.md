@@ -93,7 +93,7 @@ Nominees for Additional TSC Seats:
 | Alessandro D'Alessandro   | [AG-Alessandro](https://github.com/AG-Alessandro)     | TIM              |           |
 | Raffaele Passannanti      | [rafpas-tim](https://github.com/rafpas-tim)           | TIM              |           |
 | Jane Shen                 | [Jane-Shen](https://github.com/janeslogic)            | Mavenir Systems  |           |
-| Lorby Bi                  | [Lorby-Bi](https://github.com/Lorby04)                | Mavenir Systems  |           |
+| Lorby Bi                  | [Lorby-Bi](https://github .com/Lorby04)                | Mavenir Systems  |           |
 | Fisher Yu                 | [Fisher-Yu](https://github.com/yuff100/)              | Mavenir Systems  |           |
 | Cathy Zhang               | [cathyhongzhang](https://github.com/cathyhongzhang)   | Intel            |           |
 | Sundar Nadathur           | [ns-sundar](https://github.com/ns-sundar)             | Intel            |           |
@@ -122,3 +122,4 @@ Nominees for Additional TSC Seats:
 | Ravi Ravindran            | [rravindran123](https://github.com/rravindran123)     | F5               |           |
 | Rastislav Szabo           | [rastislavs](https://github.com/rastislavs)           | Kubermatic       |           |
 | Moath Qasim               | [moadqassem](https://github.com/moadqassem)           | Kubermatic       |           |
+| Prakash Ramchandran       | [pramchan](https://github.com/pramchan                | eotf             |           |
